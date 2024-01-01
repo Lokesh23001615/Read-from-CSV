@@ -1,6 +1,8 @@
 # Read-from-CSV
 
-## AIM: To write a python program for reading content from a csv file
+## AIM: 
+
+To write a python program for reading content from a csv file
 
 ## ALGORITHM:
 ### Step 1: 
